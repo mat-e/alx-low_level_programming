@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdlib.h>
 /*
- *lets do this, C
+ *main function
  * */
 int main(void)
 {
