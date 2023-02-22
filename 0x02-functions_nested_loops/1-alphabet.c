@@ -9,6 +9,10 @@
 
 	void print_alphabet(void)
 	{
+		/*
+		 * print_alphabet - prints all alphabet in lowercase,
+		 * the function does not take any arguments, it returns void
+		 * */
 		char letter;
 
 
