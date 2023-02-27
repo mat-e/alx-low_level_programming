@@ -6,10 +6,11 @@
 Return : Always success
  * */
 void reset_to_98(int *n){
+	int *n;
 	*n = 98;
 }
 
-int main(){
+int main(void){
 	int n;
 	n = 402;
 	printf("n = %d\n", n);
@@ -17,3 +18,4 @@ int main(){
 	printf("n = %d\n", n);
 	return (0);
 }
+
